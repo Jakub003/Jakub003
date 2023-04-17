@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub Snake](https://raw.githubusercontent.com/Jakub003/Jakub003/main/dist/github-snake.svg)
+
+
 <!--
 **Jakub003/Jakub003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
