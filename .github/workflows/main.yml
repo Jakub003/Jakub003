@@ -1,2 +1,32 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.2.1
+name: Generate Snake Graph
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *' # Update daily
+
+jobs:
+  generate-snake-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate GitHub Snake graph
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Jakub003
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add dist
+          git commit -m "Update GitHub Snake graph" || exit 0
+          git push
