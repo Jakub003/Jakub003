@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![GitHub Snake](https://raw.githubusercontent.com/Jakub003/Jakub003/main/dist/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Jakub003/Jakub003/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
