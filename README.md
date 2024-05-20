@@ -21,10 +21,10 @@ I'm Jakub, a Fullstack developer from Chicago, IL USA.
 <!-- You can add an automatically updated section using GitHub Actions or a GitHub README Stats generator -->
 
 ### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakub003&show_icons=true&theme=radical)
 
 ### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jakub003&theme=radical)
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
