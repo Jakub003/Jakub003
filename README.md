@@ -5,6 +5,7 @@ I'm Jakub, a Fullstack developer from Chicago, IL USA.
 
 ### Things I code with
 
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
 ![Filament](https://img.shields.io/badge/-Filament-4E56A6?style=flat-square&logo=filament&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
