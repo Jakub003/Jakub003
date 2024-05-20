@@ -3,7 +3,7 @@
 
 I'm Jakub, a Fullstack developer from Chicago, IL USA.
 
-### Things I code with
+### I build awesome projects with
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
@@ -13,6 +13,7 @@ I'm Jakub, a Fullstack developer from Chicago, IL USA.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Laragon](https://img.shields.io/badge/-Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Connect with me
 - [LinkedIn](https://linkedin.com/in/yourlinkedinhandle)
