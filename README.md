@@ -1,4 +1,5 @@
-![BreezyPixels](https://breezy.b-cdn.net/breezypixels/assets/breezy-pixels-thumbnail-banner.png)
+[![BreezyPixels](https://breezy.b-cdn.net/breezypixels/assets/breezy-pixels-thumbnail-banner.png)](https://breezypixels.com)
+
 
 I'm Jakub, a Fullstack developer from Chicago, IL USA.
 
