@@ -15,6 +15,8 @@ I'm Jakub, a Fullstack developer from Chicago, IL USA.
 ![Laragon](https://img.shields.io/badge/-Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+[![BreezyPixelsPortfolio]([https://breezy.b-cdn.net/breezypixels/assets/breezy-pixels-thumbnail-banner.png](https://breezy.b-cdn.net/breezypixels/assets/portfolio-grid.webp))](https://breezypixels.com/portfolio)
+
 ### Connect with me
 - [LinkedIn](https://linkedin.com/in/yourlinkedinhandle)
 - [Twitter](https://twitter.com/breezypixels)
