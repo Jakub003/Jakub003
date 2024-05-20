@@ -22,8 +22,3 @@ I'm Jakub, a Fullstack developer from Chicago, IL USA.
 - [Twitter](https://twitter.com/breezypixels)
 - [Website](https://breezypixels.com)
 
-<!-- You can add an automatically updated section using GitHub Actions or a GitHub README Stats generator -->
-
-
-### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jakub003&theme=radical)
